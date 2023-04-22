@@ -1,15 +1,14 @@
-theme: minima
+theme: minimal
+# title: Resume
 
-title: Resume
+# author:
+#   name: yoshyum
 
-author:
-  name: yoshyum
+# minima:
+#   social_links:
+#     - platform: github
+#     - user_url: "https://github.com/yoshyum"
+#     - title: GitHub
 
-minima:
-  social_links:
-    - platform: github
-    - user_url: "https://github.com/yoshyum"
-    - title: GitHub
-
-header_pages:
-  - README.md
+# header_pages:
+#   - README.md
