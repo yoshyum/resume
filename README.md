@@ -1,1 +1,0 @@
-# yoshyum.github.io
