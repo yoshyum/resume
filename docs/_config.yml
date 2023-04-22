@@ -7,4 +7,9 @@ author:
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/yoshyum" }
+    - platform: github
+    - user_url: "https://github.com/yoshyum"
+    - title: GitHub
+
+header_pages:
+  - README.md
