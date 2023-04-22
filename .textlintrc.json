@@ -1,0 +1,23 @@
+{
+  "plugins": {},
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    },
+    "@textlint-ja/no-dropping-i": true,
+    "ja-space-around-link": {
+      "before": true,
+      "after": true
+    },
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 150
+        }
+      },
+    "rousseau": true
+  }
+}
