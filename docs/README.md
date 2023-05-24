@@ -1,6 +1,11 @@
 # 職務経歴書
 
-最終更新日: 2023/05/24
+- 最終更新日: 2023/05/24
+
+## 基本情報
+
+- 氏名: Shunya Yoshikawa
+- 生年月日: 1996年生まれ
 
 ## 経歴詳細
 
@@ -10,7 +15,7 @@
 
 - ポータルサイトのバックエンド基盤リアーキテクティング
   - [Clean Architectureを採用したBackend For Frontendの開発とこれまでの所感](https://www.lifull.blog/entry/2021/03/15/100000)
-  - [継続的ドキュメンテーション: Github DiscussionsとADRのすすめ]( https://www.lifull.blog/entry/2021/09/08/100000)
+  - [継続的ドキュメンテーション: Github DiscussionsとADRのすすめ](https://www.lifull.blog/entry/2021/09/08/100000)
   - [内製ソフトウェアアーキテクチャでレガシーシステムを刷新し技術的負債を削減するまでにやったこと](https://www.lifull.blog/entry/2022/02/02/100000)
 
 - データアナリスト業務
@@ -20,3 +25,7 @@
   - [Modern Data Stack への一歩としての Data Discovery Platform](https://www.lifull.blog/entry/2022/03/31/160000)
   - [データ活用を促進するためのデータプラットフォーム開発](https://www.lifull.blog/entry/2022/09/30/100000)
   - [Google Cloudを活用したデータマネジメントの支援](https://www.lifull.blog/entry/2023/03/27/090000)
+
+## 各種アカウントなど
+
+- [Zenn](https://zenn.dev/yoshmu)
